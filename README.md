@@ -59,8 +59,10 @@ or kindly click:
 
 ## Dashboard
 This link will take you to Looker Studio to view the  Dashboard Performance Analytics of Kimia Farma: Business Insight 2020-2023
+
 [Looker Studio Report](https://lookerstudio.google.com/reporting/746d43b7-ef6e-4bc5-995a-634e0c437a08)
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9b8526c2-ca3c-44ff-9b2c-73fe2324077f" width="400">
+  <img src="https://github.com/user-attachments/assets/9b8526c2-ca3c-44ff-9b2c-73fe2324077f" width="600">
 </div>
 
+# Thank You
