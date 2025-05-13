@@ -12,7 +12,7 @@ A lack of centralized, data-driven insights makes it challenging for decision-ma
 By leveraging data analytics and visualization, this dashboard will enable Kimia Farma to detect sales trends, assess regional strengths and weaknesses, and uncover emerging opportunities for sustainable business growth.
 
 ## Goal
-This project aims to develop a comprehensive interactive dashboard that visualizes key performance indicators (KPIs) such as total sales, regional performance, product category trends, and quarterly growth patterns. The objective is to provide business leaders with actionable insights to improve strategic planning, resource allocation, and market positioning.
+This project aims to develop a comprehensive interactive dashboard that visualizes key performance indicators (KPIs)—including total sales, regional performance, product category trends, and quarterly growth patterns—to evaluate business performance from 2020 to 2023. The objective is to provide business leaders with actionable insights to enhance strategic planning, optimize resource allocation, and strengthen market positioning in 2024.
 
 ## Data Gathering
 The dataset is obtained from Kimia Farma's internal data, sourced from four .csv files. It records sales transaction details, including customer information, products, pricing, discounts, and ratings.
@@ -62,7 +62,13 @@ This link will take you to Looker Studio to view the  Dashboard Performance Anal
 
 [Looker Studio Report](https://lookerstudio.google.com/reporting/746d43b7-ef6e-4bc5-995a-634e0c437a08)
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9b8526c2-ca3c-44ff-9b2c-73fe2324077f" width="600">
+  <img src="https://github.com/user-attachments/assets/dd28504b-1d8e-4942-80fb-5581f6a4712f" width="600">
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ee7d0a74-90c6-42a4-a618-fe66c632b3c9" width="600">
+</div> 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ecae25c5-57d3-4164-a2d2-6afdc69a7cfa" width="600">
 </div>
 
 # Thank You
