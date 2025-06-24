@@ -1,8 +1,9 @@
 Click here to:
-- [Performance Analytics Kimia Farma (SQL Query File)](https://github.com/bintangphylosophie/Performance-Analytics-Kimia-Farma/blob/main/rakamin_KF_analysis.sql)
+- [Report of Performance Analytics of Kimia Farma (PDF)](https://github.com/bintangphylosophie/Performance-Analytics-Kimia-Farma/blob/main/Dashboard%20Performance%20Analytics%20of%20Kimia%20Farma.pdf)
 
-- [Dashboard Performance Analytics of Kimia Farma (PDF)](https://github.com/bintangphylosophie/Performance-Analytics-Kimia-Farma/blob/main/Dashboard%20Performance%20Analytics%20of%20Kimia%20Farma.pdf)
-- [Looker Studio Report](https://lookerstudio.google.com/reporting/746d43b7-ef6e-4bc5-995a-634e0c437a08)
+- [Looker Studio Dashboard Report](https://lookerstudio.google.com/reporting/746d43b7-ef6e-4bc5-995a-634e0c437a08)
+
+- [Performance Analytics Kimia Farma (SQL Query File)](https://github.com/bintangphylosophie/Performance-Analytics-Kimia-Farma/blob/main/rakamin_KF_analysis.sql)
 
 # DASHBOARD PERFORMANCE ANALYTICS OF KIMIA FARMA:  BUSINESS INSIGHTS (2020-2023)
 
