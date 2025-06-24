@@ -1,9 +1,3 @@
-Click here to:
-- [Report of Performance Analytics of Kimia Farma (PDF)](https://github.com/bintangphylosophie/Performance-Analytics-Kimia-Farma/blob/main/Dashboard%20Performance%20Analytics%20of%20Kimia%20Farma.pdf)
-
-- [Looker Studio Dashboard Report](https://lookerstudio.google.com/reporting/746d43b7-ef6e-4bc5-995a-634e0c437a08)
-
-- [Performance Analytics Kimia Farma (SQL Query File)](https://github.com/bintangphylosophie/Performance-Analytics-Kimia-Farma/blob/main/rakamin_KF_analysis.sql)
 
 # DASHBOARD PERFORMANCE ANALYTICS OF KIMIA FARMA:  BUSINESS INSIGHTS (2020-2023)
 
@@ -12,6 +6,15 @@ Click here to:
     <img src="https://github.com/user-attachments/assets/a0453bbc-9dd7-43f9-a393-0a158d3c5315" width="500">
 </p>
 
+Click here to:
+- [Report of Performance Analytics of Kimia Farma (PDF)](https://github.com/bintangphylosophie/Performance-Analytics-Kimia-Farma/blob/main/Dashboard%20Performance%20Analytics%20of%20Kimia%20Farma.pdf)
+
+- [Looker Studio Dashboard Report](https://lookerstudio.google.com/reporting/746d43b7-ef6e-4bc5-995a-634e0c437a08)
+
+- [Performance Analytics Kimia Farma (SQL Query File)](https://github.com/bintangphylosophie/Performance-Analytics-Kimia-Farma/blob/main/rakamin_KF_analysis.sql)
+
+
+## About Company
 Kimia Farma is the first pharmaceutical industry company in Indonesia, founded by the Dutch East Indies government in 1817. Initially, the company's name was NV Chemicalien Handle Rathkamp & Co. Based on the nationalization policy of former Dutch companies in the early years of independence, in 1958, the Government of the Republic of Indonesia merged several pharmaceutical companies into PNF (Perusahaan Negara Farmasi) Bhinneka Kimia Farma. Then, on August 16, 1971, the legal status of PNF was changed to a limited liability company (Perseroan Terbatas), and the company's name was changed to PT Kimia Farma (Persero).
 
 ## Problem Statement 
