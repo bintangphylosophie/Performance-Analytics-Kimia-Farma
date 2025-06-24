@@ -3,7 +3,6 @@
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/afb56b3e-8904-4361-a32b-799d2a483b25" width="500">
-    <img src="https://github.com/user-attachments/assets/a0453bbc-9dd7-43f9-a393-0a158d3c5315" width="500">
 </p>
 
 Click here to:
